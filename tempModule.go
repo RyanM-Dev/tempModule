@@ -6,3 +6,7 @@ func Hello()string{
 func Goodbye() string {
   return "Goodbye for now!"
 }
+
+func Ryan() string{
+	return "Ryan musa"
+}
